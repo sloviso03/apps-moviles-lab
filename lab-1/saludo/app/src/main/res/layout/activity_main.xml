@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+  <TextView
+      android:id="@+id/tittle"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:fontFamily="monospace"
+      android:text="Bienvenido"
+      android:layout_marginTop="20dp"
+      android:layout_marginBottom="20dp"
+      android:textSize="34sp" />
+
+  <TextView
+      android:id="@+id/textView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:fontFamily="monospace"
+      android:textSize="16sp"
+      android:text="Ingresá tu nombre:" />
+
+  <EditText
+      android:id="@+id/name"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:fontFamily="monospace"
+      android:textSize="20sp"
+      android:inputType="text"
+      android:hint="Carlos Pérez"
+      android:layout_marginBottom="20dp" />
+
+  <Button
+      android:id="@+id/nameBtn"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:fontFamily="monospace"
+      android:textSize="16sp"
+      android:backgroundTint="#000000"
+      android:text="Confirmar" />
+</LinearLayout>
