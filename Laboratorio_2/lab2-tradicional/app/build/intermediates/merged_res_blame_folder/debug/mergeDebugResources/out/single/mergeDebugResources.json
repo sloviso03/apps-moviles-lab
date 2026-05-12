@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/layout_fragment_peliculas.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/layout/fragment_peliculas.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/layout_fragment_detalle.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/layout/fragment_detalle.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/layout_item_pelicula.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/layout/item_pelicula.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.catedra.peliculas.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.catedra.peliculas.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

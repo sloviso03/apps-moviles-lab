@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?attr/selectableItemBackground">
+
+    <!-- TODO Etapa 1a: TextView para el titulo de la pelicula
+         - id: textTitulo
+         - layout_width: match_parent
+         - layout_height: wrap_content
+         - textAppearance: ?attr/textAppearanceTitleMedium -->
+    
+    <TextView
+        android:id="@+id/textTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?attr/textAppearanceTitleMedium"
+        tools:text="Movie Title" />
+    
+    <!-- TODO Etapa 1b: TextView para el anio y el genero
+         - id: textInfo
+         - layout_width: match_parent
+         - layout_height: wrap_content
+         - layout_marginTop: 4dp
+         - textAppearance: ?attr/textAppearanceBodyMedium
+         - textColor: ?attr/colorOnSurfaceVariant -->
+
+    <TextView
+        android:id="@+id/textInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textAppearance="?attr/textAppearanceBodyMedium"
+        android:textColor="?attr/colorOnSurfaceVariant"
+        tools:text="Year • Genre" />
+    
+</LinearLayout>

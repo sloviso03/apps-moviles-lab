@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id contenido
+id editTextBusqueda
+id fragmentContainer
+id progressBar
+id recyclerView
+id textDescripcion
+id textDirector
+id textError
+id textInfo
+id textTitulo
+id toolbar
+layout activity_main
+layout fragment_detalle
+layout fragment_peliculas
+layout item_pelicula
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string detalle_director
+string error_generico
+string error_pelicula_no_encontrada
+string hint_buscar
+string titulo_peliculas
+style Theme.Lab2

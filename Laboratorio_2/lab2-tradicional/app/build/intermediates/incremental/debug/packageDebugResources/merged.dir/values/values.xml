@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Lab 2 - Peliculas</string>
+    <string name="detalle_director">Direccion: %1$s</string>
+    <string name="error_generico">Ocurrio un error al cargar los datos.</string>
+    <string name="error_pelicula_no_encontrada">No se encontro la pelicula solicitada.</string>
+    <string name="hint_buscar">Buscar peliculas</string>
+    <string name="titulo_peliculas">Peliculas</string>
+    <style name="Theme.Lab2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+    </style>
+</resources>

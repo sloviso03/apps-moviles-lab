@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:8.13.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5b51924a57cb86fb03441d16610063ab/transformed/viewbinding-8.13.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/87eaf34d0b1abbc13bc73677ea368416/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ed76ca10ea6e5a852211bd6a81e61d71/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ee87d6b8f3b0581947dc279b62e774e3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a391cc463e3f46e40d5bc3947c57955/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/76b5bf793b32c93eb7eb57455e69b557/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/518150189defbb268870a61c9df11d57/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/7fb3721436fb5d98f5fe7b7452074ac7/transformed/fragment-1.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/67c27cc50a2b0724f2e4378bb7c32938/transformed/fragment-ktx-1.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4c0d7f44f6d55e7c22bbc831aa938ac5/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d20aa9d4206a43927d96237e6a1fa23f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/c870fa4d0897d52e8b24fc321543a1f4/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/f1ba787800e893e423ad21439083758e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/9ed0ce7a2db9fa9a241e77caa962a609/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/265a111994860bdf7bacedbc6af184e7/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/943b0ecb4369352fa9763011daebaa1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6fb4f0d9da6edc9c5233c7f50f12f7e7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2e70195cc67cd4f7669a3ca54cf7e357/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/02ba374522a5d1349b04d52c102b02e6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0679f2e8ce2f8351d4ba2166f70b9529/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/59e666ce0573d791ea9d14749311ec32/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4a4512d494169995f9f5e9b00f202d18/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/230ca62c8a9723d4292150cccde65fc8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d405f8a409a051620a1ef87e8fad0c77/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8be109ba6bf4ad2d4482a54ddeae43b9/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d56679e0f599c87f2db9687b1f84455/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a3c6bfd7d48556a71ce99d921ff1f88/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/a63b3664d9f69131ceedf9502de09a87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d57fee9ccb10c2e1606a1e7430fbf5bd/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bf52d84c564572d44ea19cb090c2f52e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/edd9c50943ae2250baa3e17aa3e8349d/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/909a62ff0ba0dbe002ccb6d8683f28b3/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e89ad548fea11b84506f891abb39327e/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6ebdac5fd2b142f8858dcfd8fa9ef703/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e54db819ebdab6ee7f2c6c997335b734/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/678b4bdc62e28dd086660cf7b3af1507/transformed/core-ktx-1.15.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/332911b0ae7c43ab3154790e86cce66e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/41ef7f963759511650c8f785dc4e0be0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bb7182b9ecfc8a038d26fbfd2335ca60/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0ec28bcaa1537bf6e528b37f6cd6f63e/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/dee1ba328a2a754787a404333dec72bc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8a25b0a7070b345e8a505e69f59dcce3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0db0962eeb307dbf063087b06484f43e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/69995df9900ea54278e2d36d3851bcda/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/1f55f6f87e33c57269295c8fef2a806b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d2f5b9cdfd3d999c62ac0aa427b1a245/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:4:5-19:19
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [com.google.android.material:material:1.12.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/87eaf34d0b1abbc13bc73677ea368416/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/87eaf34d0b1abbc13bc73677ea368416/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ee87d6b8f3b0581947dc279b62e774e3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ee87d6b8f3b0581947dc279b62e774e3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/dee1ba328a2a754787a404333dec72bc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/dee1ba328a2a754787a404333dec72bc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:10:9-42
+activity#com.catedra.peliculas.MainActivity
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5b51924a57cb86fb03441d16610063ab/transformed/viewbinding-8.13.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5b51924a57cb86fb03441d16610063ab/transformed/viewbinding-8.13.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/87eaf34d0b1abbc13bc73677ea368416/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/87eaf34d0b1abbc13bc73677ea368416/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ed76ca10ea6e5a852211bd6a81e61d71/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ed76ca10ea6e5a852211bd6a81e61d71/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ee87d6b8f3b0581947dc279b62e774e3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/ee87d6b8f3b0581947dc279b62e774e3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a391cc463e3f46e40d5bc3947c57955/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a391cc463e3f46e40d5bc3947c57955/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/76b5bf793b32c93eb7eb57455e69b557/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/76b5bf793b32c93eb7eb57455e69b557/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/518150189defbb268870a61c9df11d57/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/518150189defbb268870a61c9df11d57/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/7fb3721436fb5d98f5fe7b7452074ac7/transformed/fragment-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/7fb3721436fb5d98f5fe7b7452074ac7/transformed/fragment-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/67c27cc50a2b0724f2e4378bb7c32938/transformed/fragment-ktx-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/67c27cc50a2b0724f2e4378bb7c32938/transformed/fragment-ktx-1.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4c0d7f44f6d55e7c22bbc831aa938ac5/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4c0d7f44f6d55e7c22bbc831aa938ac5/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d20aa9d4206a43927d96237e6a1fa23f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d20aa9d4206a43927d96237e6a1fa23f/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/c870fa4d0897d52e8b24fc321543a1f4/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/c870fa4d0897d52e8b24fc321543a1f4/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/f1ba787800e893e423ad21439083758e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/f1ba787800e893e423ad21439083758e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/9ed0ce7a2db9fa9a241e77caa962a609/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/9ed0ce7a2db9fa9a241e77caa962a609/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/265a111994860bdf7bacedbc6af184e7/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/265a111994860bdf7bacedbc6af184e7/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/943b0ecb4369352fa9763011daebaa1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/943b0ecb4369352fa9763011daebaa1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6fb4f0d9da6edc9c5233c7f50f12f7e7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6fb4f0d9da6edc9c5233c7f50f12f7e7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2e70195cc67cd4f7669a3ca54cf7e357/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2e70195cc67cd4f7669a3ca54cf7e357/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/02ba374522a5d1349b04d52c102b02e6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/02ba374522a5d1349b04d52c102b02e6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0679f2e8ce2f8351d4ba2166f70b9529/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0679f2e8ce2f8351d4ba2166f70b9529/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/59e666ce0573d791ea9d14749311ec32/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/59e666ce0573d791ea9d14749311ec32/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4a4512d494169995f9f5e9b00f202d18/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/4a4512d494169995f9f5e9b00f202d18/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/230ca62c8a9723d4292150cccde65fc8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/230ca62c8a9723d4292150cccde65fc8/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d405f8a409a051620a1ef87e8fad0c77/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d405f8a409a051620a1ef87e8fad0c77/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8be109ba6bf4ad2d4482a54ddeae43b9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8be109ba6bf4ad2d4482a54ddeae43b9/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d56679e0f599c87f2db9687b1f84455/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d56679e0f599c87f2db9687b1f84455/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a3c6bfd7d48556a71ce99d921ff1f88/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/2a3c6bfd7d48556a71ce99d921ff1f88/transformed/lifecycle-viewmodel-2.8.7/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/a63b3664d9f69131ceedf9502de09a87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/a63b3664d9f69131ceedf9502de09a87/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d57fee9ccb10c2e1606a1e7430fbf5bd/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d57fee9ccb10c2e1606a1e7430fbf5bd/transformed/lifecycle-livedata-core-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bf52d84c564572d44ea19cb090c2f52e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bf52d84c564572d44ea19cb090c2f52e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/edd9c50943ae2250baa3e17aa3e8349d/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/edd9c50943ae2250baa3e17aa3e8349d/transformed/lifecycle-livedata-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/909a62ff0ba0dbe002ccb6d8683f28b3/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/909a62ff0ba0dbe002ccb6d8683f28b3/transformed/lifecycle-livedata-core-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e89ad548fea11b84506f891abb39327e/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e89ad548fea11b84506f891abb39327e/transformed/lifecycle-viewmodel-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6ebdac5fd2b142f8858dcfd8fa9ef703/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6ebdac5fd2b142f8858dcfd8fa9ef703/transformed/lifecycle-livedata-ktx-2.8.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e54db819ebdab6ee7f2c6c997335b734/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/e54db819ebdab6ee7f2c6c997335b734/transformed/lifecycle-viewmodel-savedstate-2.8.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/678b4bdc62e28dd086660cf7b3af1507/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/678b4bdc62e28dd086660cf7b3af1507/transformed/core-ktx-1.15.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/332911b0ae7c43ab3154790e86cce66e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/332911b0ae7c43ab3154790e86cce66e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/41ef7f963759511650c8f785dc4e0be0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/41ef7f963759511650c8f785dc4e0be0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bb7182b9ecfc8a038d26fbfd2335ca60/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/bb7182b9ecfc8a038d26fbfd2335ca60/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0ec28bcaa1537bf6e528b37f6cd6f63e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0ec28bcaa1537bf6e528b37f6cd6f63e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/dee1ba328a2a754787a404333dec72bc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/dee1ba328a2a754787a404333dec72bc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8a25b0a7070b345e8a505e69f59dcce3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8a25b0a7070b345e8a505e69f59dcce3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0db0962eeb307dbf063087b06484f43e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/0db0962eeb307dbf063087b06484f43e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/69995df9900ea54278e2d36d3851bcda/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/69995df9900ea54278e2d36d3851bcda/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/1f55f6f87e33c57269295c8fef2a806b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/1f55f6f87e33c57269295c8fef2a806b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d2f5b9cdfd3d999c62ac0aa427b1a245/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d2f5b9cdfd3d999c62ac0aa427b1a245/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/santiagolovisotto/Documents/github/apps-moviles-lab/Laboratorio_2/lab2-tradicional/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/8e99e516f4163b872369ef5525e1da28/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/5cac6ea168b2754af5bbad30612d096a/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+permission#com.catedra.peliculas.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+uses-permission#com.catedra.peliculas.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/d402c63373f01279253e83e29395bf60/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/70d327287f443fc4d106f1d1495ffee7/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/santiagolovisotto/.gradle/caches/9.0.0/transforms/6d8a3b5329eaec98d0ffdfdcadbe69b2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

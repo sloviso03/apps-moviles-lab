@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 2 - Peliculas</string>
+
+    <!-- Pantalla de listado -->
+    <string name="titulo_peliculas">Peliculas</string>
+    <string name="hint_buscar">Buscar peliculas</string>
+
+    <!-- Pantalla de detalle -->
+    <string name="detalle_director">Direccion: %1$s</string>
+
+    <!-- Errores -->
+    <string name="error_pelicula_no_encontrada">No se encontro la pelicula solicitada.</string>
+    <string name="error_generico">Ocurrio un error al cargar los datos.</string>
+</resources>
